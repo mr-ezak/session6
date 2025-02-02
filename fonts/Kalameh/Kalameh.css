@@ -1,0 +1,5 @@
+@font-face {
+  font-family: Kalameh;
+  src: url("Kalameh-Bold.woff") format("woff"),
+    url("Kalameh-Bold.woff2") format("woff2");
+}
